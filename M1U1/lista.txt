@@ -4,3 +4,6 @@ galletitas
 manteca
 mermelada
 dulce de leche
+mandarinas
+granada
+bananas
