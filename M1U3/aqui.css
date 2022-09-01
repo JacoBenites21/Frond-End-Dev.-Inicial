@@ -1,0 +1,21 @@
+h1{
+    font-size: 52px;
+    transform: translate(520px,0px);
+    color: crimson;
+    text-shadow: -3px 2px 2px rgba(253,56,56,0.72);
+}
+html{
+    background: #a96464;
+background: linear-gradient(84deg,#a96464 0%, #dcd3d3 80%);
+}
+#telefono{
+    border: 7px solid #a6402d;
+    background: #e5d1d1;
+    font-size: 30px;
+}
+#email{
+    border: 7px solid #a6402d;
+    background: #e5d1d1;
+    font-size: 30px;
+    transform: translate(0px,10px);
+}
